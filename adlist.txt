@@ -1,1 +1,2 @@
 (^|\.)waiguliacetyl.\shop$
+*.waiguliacetyl.shop
